@@ -1,1 +1,1 @@
-![](https://komarev.com/ghpvc/?username=zomsua&color=ff52a5&label=determinated+and+lovely.)
+![](https://komarev.com/ghpvc/?username=zomsua&color=f5cbe6&label=determinated+and+lovely.)
