@@ -15,3 +15,6 @@
     <img width="200" height="100" src="https://i.postimg.cc/qMvy8NyK/Untitled189-20260706010752.webp">
   </a>
 </div>
+<p align="center">
+<a href="https://github.com/spokelord">main git</a>
+</p>
