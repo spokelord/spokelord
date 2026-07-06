@@ -11,7 +11,7 @@
   ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<a href="https://planetlordd.atabook.org">
     <img width="200" height="100" src="https://i.postimg.cc/02nZvgdf/Untitled189-20260706010758.webp">
 </a>ㅤㅤㅤ
-  <a href="meow">
+  <a href="https://rentry.co/terranova">
     <img width="200" height="100" src="https://i.postimg.cc/qMvy8NyK/Untitled189-20260706010752.webp">
   </a>
 </div>
