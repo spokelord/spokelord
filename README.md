@@ -1,6 +1,6 @@
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=900&color=8456B0&width=435&lines=%E3%85%A4%E3%85%A4%E3%85%A4+ill+die+if+i+wither;%E3%85%A4%E3%85%A4%E3%85%A4%E3%85%A4%E3%85%A4+in+your+memory" alt="Typing SVG" /></a>
- <p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=4000&pause=1&color=8456B0&width=435&lines=%E3%85%A4%E3%85%A4%E3%85%A4+ill+die+if+i+wither;%E3%85%A4%E3%85%A4%E3%85%A4%E3%85%A4%E3%85%A4+in+your+memory" alt="Typing SVG" /></a>
+<p align="center">
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
