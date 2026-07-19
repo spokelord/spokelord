@@ -3,6 +3,12 @@
  <p align="center">
 
 <p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31blrrhtlbq632ikyrl3d6duwpcq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=6e38a3&bar_color_cover=false">
+  </a>
+</p>
+
+<p align="center">
 <a href="https://docs.google.com/document/d/1z4ul6yPd5LIOJ1_bN6ihUblsQf5wIt-z3MdDw-2Dx3Y/edit?tab=t.0">read my callout document.</a>
 </p>
 <p align="center">
